@@ -30,13 +30,15 @@ avatar: "/assets/img/avatar-icon.png"
 # List of links in the navigation bar
 navbar-links:
 
-  Agenda: "agenda"
-  Venue: "venue"
+  About: "about"
   Participants:
+    - Application: "application"
+    - Venue: "venue"
     - Travel Information: "travel"
     - Get involved: "get-involved"
+  Agenda: "agenda"
+  Diversity Statement: "diversity"
   Code of Conduct: "code-of-conduct"
-  US-RSE Home: "https://us-rse.org"
 
 # --- Background colour/image options --- #
 
