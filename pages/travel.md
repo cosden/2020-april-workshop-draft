@@ -12,9 +12,13 @@ Please check back as this page will continue to be updated and refined...
 The workshop will be held at the Nassau Inn in Princeton NJ located adjacent to
 the Princeton University Campus.  It may be useful to review the [University
 webpages](http://www.princeton.edu/main/visiting/) about traveling to and
-visiting Princeton. 
+visiting Princeton.
 
 Please send any questions about travel to the workshop to TBD.
+
+## Travel Reimbursement
+All participant costs will be covered by the grant. However, please do not make travel arrangements yet. Details as to how to proceed will be provided soon.  
+
 
 ## Travel by Train
 From Newark Liberty International (EWR) airport, John F. Kennedy International
