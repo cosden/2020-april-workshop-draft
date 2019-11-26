@@ -6,24 +6,24 @@ description: Workshop Goals
 permalink: /about/
 ---
 
-Broadly speaking the First US-RSE Community Building Workshop has two
+Broadly speaking, the First US-RSE Community Building Workshop has two
 overarching goals:
 
 1. Grow the RSE community by establishing and strengthening professional
 networks of current RSEs and RSE leaders.
 1. Generate material/content for the
-us-rse.org website that promotes and supports current/future RSEs in alignment
+<a href="http://us-rse.org">us-rse.org</a> website that promotes and supports current/future RSEs in alignment
 with the mission of the US-RSE.
 
 
 The workshop will have breakout sessions focused on a number of different topics
 pertinent to the US-RSE community. We’ll be working together to generate content
-for the us-rse.org website that promotes and supports current/future RSEs in
+for the <a href="http://us-rse.org">us-rse.org</a> website that promotes and supports current/future RSEs in
 alignment with the [mission](https://us-rse.org/mission) of the US-RSE Association. We will also plan
 follow-up activities to grow the community.
 
 One key output will be the generation of community white papers, blog posts, and
-online resources.  These tangible outputs will all be hosted at us-rse.org.
+online resources.  These tangible outputs will all be hosted at <a href="http://us-rse.org">us-rse.org</a>.
 Each breakout session will be focused on a particular topic (see some initial
 ideas below) and have a designated leader and/or owner of the output.  Most of
 these breakout sessions, using collaborative content generation (using the SSI's
@@ -68,4 +68,6 @@ Specific topics will be decided based on suggestions before and during the works
 1. US-RSE next steps (web site & resources)
 1. US-RSE next steps (communication & community)
 
-The specific topics for each breakout session should keep conversations steered away from off-limit topics that are not likely to lead to a conclusion or are not constructive, and we may need to reject some potential topics for this reason. Each session will have a designated chair or session leader and a second person(s) designated as secretary.  The session leader will ensure that the sessions stay focused and away from off-limit topics that would derail otherwise useful conversations.  A list of off-limit topics for breakout sessions include: credit models for software contributions, aesthetics (logo, colors, etc), governance, and local chapters of US-RSE.  We have identified these topics as occasionally being contentious, or being unlikely to result in consensus or even a productive discussion **at this point**. The exception to these off-limit topics will only be made in the event that the participants choose to allocate a dedicated breakout session to one of these topics.  In that case, discussion will be restricted to only that dedicated session.  These ground rules will be established at the beginning of the workshop and reiterated by the session leader of each breakout session.
+The specific topics for each breakout session should keep conversations steered away from off-limit topics that are not likely to lead to a conclusion or are not constructive, and we may need to reject some potential topics for this reason. Each session will have a designated chair or session leader and a second person(s) designated as secretary.  The session leader will ensure that the sessions stay focused and away from off-limit topics that would derail otherwise useful conversations.
+
+A list of off-limit topics for breakout sessions include: credit models for software contributions, aesthetics (logo, colors, etc), governance, and local chapters of US-RSE.  We have identified these topics as occasionally being contentious, or being unlikely to result in consensus or even a productive discussion **at this point**. The exception to these off-limit topics will only be made in the event that the participants choose to allocate a dedicated breakout session to one of these topics.  In that case, discussion will be restricted to only that dedicated session.  These ground rules will be established at the beginning of the workshop and reiterated by the session leader of each breakout session.
