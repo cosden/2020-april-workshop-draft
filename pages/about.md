@@ -48,3 +48,24 @@ we anticipate breakout sessions related to:
 1. Community
   - What should future workshops cover?
   - What events or activities does the RSE community want?
+
+
+Specific topics will be decided based on suggestions before and during the workshop by the participants. Possible topics include (but are not limited to):
+
+1. RSE Profiles (Personal history/narrative and type of work, meant to explain RSEs by providing examples)
+1. RSE Groups (how groups are set up, funded, and sustained)
+1. RSE Impact (Projects overview capture impact on research)
+1. RSE best practices (testing)
+1. RSE best practices (tools)
+1. RSE best practices (design)
+1. What are the current and future challenges facing RSEs?
+1. Career path models and promotion
+1. Role of a national US-RSE organization
+1. RSE guidelines
+1. Establishing an RSE group
+1. US-RSE coordination with other organizations and efforts (e.g. URSSI, ReSA, etc.)
+1. US-RSE next steps (conference)
+1. US-RSE next steps (web site & resources)
+1. US-RSE next steps (communication & community)
+
+The specific topics for each breakout session should keep conversations steered away from off-limit topics that are not likely to lead to a conclusion or are not constructive, and we may need to reject some potential topics for this reason. Each session will have a designated chair or session leader and a second person(s) designated as secretary.  The session leader will ensure that the sessions stay focused and away from off-limit topics that would derail otherwise useful conversations.  A list of off-limit topics for breakout sessions include: credit models for software contributions, aesthetics (logo, colors, etc), governance, and local chapters of US-RSE.  We have identified these topics as occasionally being contentious, or being unlikely to result in consensus or even a productive discussion **at this point**. The exception to these off-limit topics will only be made in the event that the participants choose to allocate a dedicated breakout session to one of these topics.  In that case, discussion will be restricted to only that dedicated session.  These ground rules will be established at the beginning of the workshop and reiterated by the session leader of each breakout session.
