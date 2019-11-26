@@ -2,7 +2,7 @@
 layout: page
 title: Workshop Agenda
 subtitle: Tentative & Preliminary Agenda
-description: 
+description: Tentative Agenda
 permalink: /agenda/
 ---
 
