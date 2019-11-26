@@ -19,7 +19,7 @@ with the mission of the US-RSE.
 The workshop will have breakout sessions focused on a number of different topics
 pertinent to the US-RSE community. We’ll be working together to generate content
 for the us-rse.org website that promotes and supports current/future RSEs in
-alignment with the mission of the US-RSE Association. We will also plan
+alignment with the [mission](https://us-rse.org/mission) of the US-RSE Association. We will also plan
 follow-up activities to grow the community.
 
 One key output will be the generation of community white papers, blog posts, and
@@ -27,17 +27,17 @@ online resources.  These tangible outputs will all be hosted at us-rse.org.
 Each breakout session will be focused on a particular topic (see some initial
 ideas below) and have a designated leader and/or owner of the output.  Most of
 these breakout sessions, using collaborative content generation (using the SSI's
-speed blogs [6] as a model), will lead to documents that will be ~80% completed
+[speed blogs](https://www.software.ac.uk/speed-blogging-and-tips-writing-one) as a model), will lead to documents that will be ~80% completed
 at the workshop. The “output owner” will be responsible for ensuring the product
 of the session will be complete and the resulting document posted online within
-a week after the workshop.
+a week after the workshop.  We'll be looking for output owner volunteers prior to the workshop.
 
 This new material will help and support new and existing members of the
 community, those who don’t identify with RSEs but work with RSEs, those who want
 to support the RSE role, and those want to understand the profession better.
 
 
-To target each of the three main components of the US-RSE mission,
+To target each of the three main components of the [US-RSE mission](https://us-rse.org/mission),
 we anticipate breakout sessions related to:
 1. Advocacy
   - Defining and advancing the RSE career path
